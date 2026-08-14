@@ -64,8 +64,10 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
+    "https://portfolio-bgr1v6qy7-portfolio-ce04.vercel.app",
     "http://localhost:5173",
     "http://localhost:5174",
+
 ]
 
 ROOT_URLCONF = 'myportfolio.urls'

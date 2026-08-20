@@ -64,6 +64,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
+    "https://santhipriya-portfolio.vercel.app",
     "https://portfolio-nzc40zgns-portfolio-ce04.vercel.app",
     "https://portfolio-bgr1v6qy7-portfolio-ce04.vercel.app",
     "http://localhost:5173",
